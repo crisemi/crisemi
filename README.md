@@ -30,7 +30,7 @@ Aquí puedes encontrar una muestra de mis proyectos y contribuciones más destac
 <!---
 - [LinkedIn](enlace)
 --->
-- [Correo Electrónico](crisler795@gmail.com)
+- [Correo Electrónico](ceconv795@gmail.com)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí y que podamos compartir conocimientos y experiencias en el apasionante mundo de la informática y la inteligencia artificial.
 

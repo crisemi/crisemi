@@ -1,7 +1,7 @@
 👋 Hi, I’m @crisemi 
-I’m a freshman student of artficial intelligence
-I’m learning data structures, algorithms and POO
-I’m interested in learning about programming contests like the ICPC and starting to develop mi own projects
+-I’m a freshman student of artficial intelligence
+-I’m learning data structures, algorithms and POO
+-I’m interested in learning about programming contests like the ICPC and starting to develop mi own projects
 
 
 <!---

@@ -1,11 +1,10 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy @crisemi, un estudiante de primer año de inteligencia artificial apasionado por la programación y el aprendizaje continuo. Aquí encontrarás información sobre mis intereses, proyectos y aspiraciones en el mundo de la informática.
+¡Bienvenido a mi perfil de GitHub! Soy @crisemi, un estudiante de segundo año de inteligencia artificial apasionado por la programación y el aprendizaje continuo. Aquí encontrarás información sobre mis intereses, proyectos y aspiraciones en el mundo de la informática.
 
 ## Sobre Mí
 
 - 🎓 Soy estudiante de primer año de inteligencia artificial, enfocado en aprender sobre **estructuras de datos**, **algoritmos** y **programación orientada a objetos**.
-- 📚 Actualmente estoy inmerso en el fascinante mundo de la inteligencia artificial, explorando diversas técnicas y aplicaciones en este campo en constante evolución.
 - 💻 Mi objetivo es profundizar en el conocimiento de las estructuras de datos y algoritmos para resolver problemas complejos de manera eficiente, así como dominar los principios de la programación orientada a objetos para desarrollar software robusto y escalable.
 - 🌱 Estoy interesado en aprender sobre **concursos de programación** como el ICPC y participar activamente en ellos para poner a prueba mis habilidades y seguir mejorando como programador.
 

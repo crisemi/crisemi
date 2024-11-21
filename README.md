@@ -1,12 +1,12 @@
-# ¡Hola! 👋
+# ¡Hola! 
 
-¡Bienvenido a mi perfil de GitHub! Soy @crisemi, un estudiante de segundo año de inteligencia artificial apasionado por la programación y el aprendizaje continuo. Aquí encontrarás información sobre mis intereses, proyectos y aspiraciones en el mundo de la informática.
+¡Bienvenido a mi perfil! Soy @crisemi, un estudiante de inteligencia artificial apasionado por la programación. Aquí encontrarás información sobre mis intereses, proyectos y aspiraciones.
 
 ## Sobre Mí
 
-- 🎓 Soy estudiante de primer año de inteligencia artificial, enfocado en aprender sobre **estructuras de datos**, **algoritmos** y **programación orientada a objetos**.
-- 💻 Mi objetivo es profundizar en el conocimiento de las estructuras de datos y algoritmos para resolver problemas complejos de manera eficiente, así como dominar los principios de la programación orientada a objetos para desarrollar software robusto y escalable.
-- 🌱 Estoy interesado en aprender sobre **concursos de programación** como el ICPC y participar activamente en ellos para poner a prueba mis habilidades y seguir mejorando como programador.
+- 🎓 Soy estudiante de 2 año en la UP en inteligencia artificial.
+- 💻 Mi objetivo es profundizar en el conocimiento de estructuras de datos y algoritmos para resolver problemas complejos de manera eficiente, asi como crear proyectos para poder aprender y desarrollar software robusto y escalable.
+- Me interesa participar en **concursos de programación** como el ICPC para poner a prueba mis habilidades y seguir mejorando como programador.
 
 <!---
 ## Proyectos Destacados
@@ -19,19 +19,8 @@ Aquí puedes encontrar una muestra de mis proyectos y contribuciones más destac
 --->
 ## Objetivos Futuros
 
-- 🚀 Estoy emocionado por comenzar a desarrollar mis propios proyectos, aplicando los conocimientos adquiridos en mis estudios y explorando nuevas ideas innovadoras en el campo de la inteligencia artificial.
-- 🏆 Mi meta a largo plazo es participar en competiciones de programación como el ICPC y destacarme como programador competitivo, resolviendo desafíos difíciles y colaborando con equipos talentosos de todo el mundo.
-
-## Contáctame
-
-¡Me encantaría conectarme contigo y explorar oportunidades de colaboración o simplemente charlar sobre programación y tecnología! Puedes encontrarme en:
-
-<!---
-- [LinkedIn](enlace)
---->
-- [ceconv795@gmail.com](ceconv795@gmail.com)
-
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí y que podamos compartir conocimientos y experiencias en el apasionante mundo de la informática y la inteligencia artificial.
+- 🚀 Estoy emocionado por comenzar a desarrollar mis propios proyectos, aplicando los conocimientos adquiridos en mis estudios y explorando nuevas ideas innovadoras.
+- 🏆 Mi meta a largo plazo es destacarme en competiciones de programación como el ICPC y destacarme como programador competitivo.
 
 
 
